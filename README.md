@@ -1,7 +1,7 @@
 # Welcome to [Monis Shaikh](https://github.com/monis-codes)'s Profile 👋
 
 <div align="center">
-  https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&duration=3000&lines=Welcome+to+my+GitHub+Profile!;I'm+Monis+Shaikh;A+Competitive+Programmer;Full+Stack+Developer;ML+Enthusiast;Always+Learning+Something+New!
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&duration=3000&lines=Welcome+to+my+GitHub+Profile!;I'm+Monis+Shaikh;A+Competitive+Programmer;Full+Stack+Developer;ML+Enthusiast;Always+Learning+Something+New!" />
 </div>
 
 
@@ -41,7 +41,7 @@ const monis = {
 <div align="center">
   
 <img src="https://media.licdn.com/dms/image/v2/D4D22AQHb4VZmiyd4Kw/feedshare-shrink_800/B4DZYeYwYhGkAg-/0/1744266529302?e=1753315200&v=beta&t=JlpVlXXcLOTvV7djab4qY-ZBTPGZlFo3Ujvg3BznCt0" width="400" alt="MERNxAI Hackathon Achievement" />
-
+<br/>
 <a href="https://github.com/monis-codes">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monis-codes&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </a>
