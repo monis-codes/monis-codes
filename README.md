@@ -39,7 +39,7 @@ const monis = {
 
 <div align="center">
   
-[![Hackathon Win](https://media.licdn.com/dms/image/v2/D4D22AQHb4VZmiyd4Kw/feedshare-shrink_800/B4DZYeYwYhGkAg-/0/1744266529302?e=1753315200&v=beta&t=JlpVlXXcLOTvV7djab4qY-ZBTPGZlFo3Ujvg3BznCt0)](https://github.com/monis-codes)
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQHb4VZmiyd4Kw/feedshare-shrink_800/B4DZYeYwYhGkAg-/0/1744266529302?e=1753315200&v=beta&t=JlpVlXXcLOTvV7djab4qY-ZBTPGZlFo3Ujvg3BznCt0" width="400" alt="MERNxAI Hackathon Achievement" />
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monis-codes&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/monis-codes)
 
 </div>
