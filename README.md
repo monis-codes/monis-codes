@@ -57,7 +57,7 @@ const monis = {
 
 ### 🎖️ Competitive Programming & Achievements
 - 🏅 **CodeForces**: 1205 rating 
-- 🏅 **LeetCode**: 300+ problems solved | Contest Rating: 1650
+- 🏅 **LeetCode**: 400+ problems solved | Contest Rating: 1650
 - 🥉 **2nd Runner Up** - MERNxAI Hackathon 2025
 
 ### 🔥 GitHub Trophies
